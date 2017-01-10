@@ -1,3 +1,4 @@
+package com.arpan;
 
 public class BruteForceHistogram {
 	
